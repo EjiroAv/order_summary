@@ -1,1 +1,1 @@
-# interactive-rating-component
+# iOrder-Summary
